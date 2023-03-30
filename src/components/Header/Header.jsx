@@ -9,7 +9,7 @@ const Header = () => {
             <img className="w-[25%]" src={logo} alt="nav logo" />
           </div>
           <div className="flex-none">
-            <ul className="menu menu-horizontal px-1 text-white">
+            <ul className="menu md:menu-horizontal px-1 text-white">
               <li>
                 <a className="hover:text-green-600">Order</a>
               </li>
